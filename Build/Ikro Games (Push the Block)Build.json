@@ -1,0 +1,13 @@
+{
+"companyName": "Ikro Games",
+"productName": "Push the block",
+"dataUrl": "Ikro Games (Push the Block)Build.data.unityweb",
+"wasmCodeUrl": "Ikro Games (Push the Block)Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Ikro Games (Push the Block)Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
